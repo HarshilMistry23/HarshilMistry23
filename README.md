@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **harshilmistry23@gmail.com**
 
+<p> I am a final-year student at NIT Surat, pursuing a B.Tech in Electronics and Communication Engineering. As a tech enthusiast, I am passionate about leveraging technology to solve real-life problems. I have experience in robotics and image processing, and I am currently working on web development. Notably, I was the winner of the Samsung Solve For Tomorrow 2023. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harshilmistry23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshilmistry23/" height="30" width="40" /></a>
